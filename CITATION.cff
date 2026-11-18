@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Malaysia Household Resilience Monitor"
+authors:
+  - family-names: "Baharudin"
+    given-names: "Farah Ainaa"
+year: 2026
+license: MIT
